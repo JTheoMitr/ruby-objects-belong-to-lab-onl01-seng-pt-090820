@@ -9,4 +9,4 @@ class Artist
   
 end
 
-drake = Artist.new("Drake", "Rap")
+Artist.new("Beyonce", "Rap")
