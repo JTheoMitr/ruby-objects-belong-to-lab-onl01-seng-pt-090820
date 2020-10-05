@@ -8,3 +8,5 @@ class Artist
   end
   
 end
+
+drake = Artist.new("Drake", "Rap")
